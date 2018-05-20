@@ -1,0 +1,10 @@
+E:\電腦研究\程式設計\2018年總開發\2018.05月程式開發\猜數字\猜數字\bin\Debug\猜數字.exe.config
+E:\電腦研究\程式設計\2018年總開發\2018.05月程式開發\猜數字\猜數字\bin\Debug\猜數字.exe
+E:\電腦研究\程式設計\2018年總開發\2018.05月程式開發\猜數字\猜數字\bin\Debug\猜數字.pdb
+E:\電腦研究\程式設計\2018年總開發\2018.05月程式開發\猜數字\猜數字\obj\Debug\猜數字.csprojAssemblyReference.cache
+E:\電腦研究\程式設計\2018年總開發\2018.05月程式開發\猜數字\猜數字\obj\Debug\猜數字.Form1.resources
+E:\電腦研究\程式設計\2018年總開發\2018.05月程式開發\猜數字\猜數字\obj\Debug\猜數字.Properties.Resources.resources
+E:\電腦研究\程式設計\2018年總開發\2018.05月程式開發\猜數字\猜數字\obj\Debug\猜數字.csproj.GenerateResource.cache
+E:\電腦研究\程式設計\2018年總開發\2018.05月程式開發\猜數字\猜數字\obj\Debug\猜數字.csproj.CoreCompileInputs.cache
+E:\電腦研究\程式設計\2018年總開發\2018.05月程式開發\猜數字\猜數字\obj\Debug\猜數字.exe
+E:\電腦研究\程式設計\2018年總開發\2018.05月程式開發\猜數字\猜數字\obj\Debug\猜數字.pdb
